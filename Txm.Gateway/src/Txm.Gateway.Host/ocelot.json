@@ -1,0 +1,33 @@
+{
+    "ReRoutes": [
+        {
+            "UseServiceDiscovery": true, //启用服务发现
+            "DownstreamPathTemplate": "/Identity/{url}", //下游转发路由
+            "DownstreamScheme": "http", //标识头
+            "ServiceName": "Txm.Identity.Host", //服务注册标识
+            "LoadBalancer": "RoundRobin", //服务均衡：轮询
+            "UpstreamPathTemplate": "/Identity/{url}", //上游请求路由
+            "UpstreamHttpMethod": [ "Get", "Post" ], //请求的方法类型
+            "ReRoutesCaseSensitive": false //不区分大小写
+        },
+        {
+            "UseServiceDiscovery": true,
+            "DownstreamPathTemplate": "/BackendAdmin/{url}",
+            "DownstreamScheme": "http",
+            "ServiceName": "Txm.BackendAdmin.Web",
+            "LoadBalancer": "RoundRobin",
+            "UpstreamPathTemplate": "/BackendAdmin/{url}",
+            "UpstreamHttpMethod": [ "Get", "Post" ],
+            "ReRoutesCaseSensitive": false
+        }
+    ],
+    "GlobalConfiguration": {
+        //"BaseUrl": "http://localhost:7003",
+        "ServiceDiscoveryProvider": {
+            "Host": "192.168.119.131", // Consul Service IP
+            "Port": 8500, // Consul Service Port
+            "Type": "PollConsul",
+            "PollingInterval": 100 //健康检查时间端
+        }
+    }
+}

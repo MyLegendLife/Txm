@@ -1,0 +1,14 @@
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Txm.IdentityServer.EntityFrameworkCore.deps.json
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Txm.IdentityServer.EntityFrameworkCore.dll
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Txm.IdentityServer.EntityFrameworkCore.pdb
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.dll
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.Shared.dll
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.pdb
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.Shared.pdb
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Txm.IdentityServer.EntityFrameworkCore.csprojAssemblyReference.cache
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Txm.IdentityServer.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Txm.IdentityServer.EntityFrameworkCore.AssemblyInfo.cs
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Txm.IdentityServer.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Txm.IdentityServer.EntityFrameworkCore.csproj.CopyComplete
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Txm.IdentityServer.EntityFrameworkCore.dll
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Txm.IdentityServer.EntityFrameworkCore.pdb

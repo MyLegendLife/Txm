@@ -1,0 +1,16 @@
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Application.Shared.dll
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.dll
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.Shared.dll
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.pdb
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.Shared.pdb
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Application.csprojAssemblyReference.cache
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Application.AssemblyInfoInputs.cache
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Application.AssemblyInfo.cs
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Application.deps.json
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Application.dll
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Application.pdb
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Application.Shared.pdb
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Application.csproj.CopyComplete
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Application.dll
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Application\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Application.pdb

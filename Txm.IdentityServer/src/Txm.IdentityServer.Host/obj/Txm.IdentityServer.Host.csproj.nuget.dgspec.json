@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Host\\Txm.IdentityServer.Host.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Domain.Shared\\Txm.IdentityServer.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Domain.Shared\\Txm.IdentityServer.Domain.Shared.csproj",
+        "projectName": "Txm.IdentityServer.Domain.Shared",
+        "projectPath": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Domain.Shared\\Txm.IdentityServer.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Domain\\Txm.IdentityServer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Domain\\Txm.IdentityServer.Domain.csproj",
+        "projectName": "Txm.IdentityServer.Domain",
+        "projectPath": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Domain\\Txm.IdentityServer.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Domain.Shared\\Txm.IdentityServer.Domain.Shared.csproj": {
+                "projectPath": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Domain.Shared\\Txm.IdentityServer.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.EntityFrameworkCore\\Txm.IdentityServer.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.EntityFrameworkCore\\Txm.IdentityServer.EntityFrameworkCore.csproj",
+        "projectName": "Txm.IdentityServer.EntityFrameworkCore",
+        "projectPath": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.EntityFrameworkCore\\Txm.IdentityServer.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Domain\\Txm.IdentityServer.Domain.csproj": {
+                "projectPath": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Domain\\Txm.IdentityServer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Host\\Txm.IdentityServer.Host.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Host\\Txm.IdentityServer.Host.csproj",
+        "projectName": "Txm.IdentityServer.Host",
+        "projectPath": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Host\\Txm.IdentityServer.Host.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.Host\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.EntityFrameworkCore\\Txm.IdentityServer.EntityFrameworkCore.csproj": {
+                "projectPath": "D:\\Projects\\Learning\\Txm\\Txm.IdentityServer\\src\\Txm.IdentityServer.EntityFrameworkCore\\Txm.IdentityServer.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[1.6.1.1, )"
+            },
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "IdentityServer4.AspNetIdentity": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Domain\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.deps.json
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Domain\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.dll
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Domain\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.pdb
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Domain\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.Shared.dll
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Domain\bin\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.Shared.pdb
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Domain\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.csprojAssemblyReference.cache
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Domain\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.AssemblyInfoInputs.cache
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Domain\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.AssemblyInfo.cs
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Domain\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Domain\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.csproj.CopyComplete
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Domain\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.dll
+D:\Projects\Learning\Txm\Txm.IdentityServer\src\Txm.IdentityServer.Domain\obj\Debug\netcoreapp3.1\Txm.IdentityServer.Domain.pdb
