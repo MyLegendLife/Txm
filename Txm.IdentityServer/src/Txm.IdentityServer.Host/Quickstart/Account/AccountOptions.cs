@@ -16,5 +16,7 @@ namespace Txm.IdentityServer.Host.Quickstart.Account
         public static bool AutomaticRedirectAfterSignOut = false;
 
         public static string InvalidCredentialsErrorMessage = "Invalid username or password";
+
+        public static string tttt = "ttt";
     }
 }
